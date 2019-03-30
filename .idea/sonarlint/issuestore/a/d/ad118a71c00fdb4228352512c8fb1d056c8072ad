@@ -1,0 +1,33 @@
+
+V
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(ã–‡H8œ±šü›-
+U
+squid:S106d"9Replace this use of System.out or System.err by a logger.(Øª½j8Ñùüù›-
+V
+squid:S106î"9Replace this use of System.out or System.err by a logger.(ã–‡H8ô«ü›-
+Fsquid:S1481Ù"(Remove this unused "sc3" local variable.(‰­“8ÏáÇñœ-
+Zsquid:S1854f"7Remove this useless assignment to local variable "sc2".(Ü››²úÿÿÿÿ8²™ˆú›-
+[squid:S1854¹"7Remove this useless assignment to local variable "sc2".(Ü››²úÿÿÿÿ8ÏáÇñœ-
+Lsquid:S1481¹"(Remove this unused "sc2" local variable.(Ü››²úÿÿÿÿ8ÏáÇñœ-
+vsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(ÇûÓşúÿÿÿÿ8ÏáÇñœ-
+msquid:S1192¡"ODefine a constant instead of duplicating this literal "Key-ul este : " 4 times.(ã–‡H8äÂ²ü›-
+Jsquid:S1068"-Remove this unused "bookArray" private field.(¦€Ôk8…‹Óø›-
+U
+squid:S106{"9Replace this use of System.out or System.err by a logger.(Øª½j8Ñùüù›-
+Msquid:S1068"/Remove this unused "listaCarti1" private field.(Œ—ì²8ŒÌÓø›-
+Fsquid:S1481J"(Remove this unused "sc4" local variable.(İ—‘–8ÏáÇñœ-
+Csquid:S1068"%Remove this unused "x" private field.(ËáŸé8ãâßø›-
+Ksquid:S1481f"(Remove this unused "sc2" local variable.(Ü››²úÿÿÿÿ8²™ˆú›-
+Usquid:S1854Ù"7Remove this useless assignment to local variable "sc3".(‰­“8ÏáÇñœ-
+Usquid:S1854J"7Remove this useless assignment to local variable "sc4".(İ—‘–8ÏáÇñœ-
+U
+squid:S106G"9Replace this use of System.out or System.err by a logger.(Øª½j8ïÀôù›-
+nsquid:S1192¡"PDefine a constant instead of duplicating this literal "Valoare este : " 4 times.(ã–‡H8äÂ²ü›-
+V
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(ã–‡H8äÂ²ü›-
+V
+squid:S106×"9Replace this use of System.out or System.err by a logger.(ã–‡H8äÂ²ü›-
+U
+squid:S1060"9Replace this use of System.out or System.err by a logger.(Øª½j8€ìãù›-
+Fsquid:S1068"(Remove this unused "setB" private field.(š©ëã8©ÈÒø›-
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Óİšşÿÿÿÿ8ÏáÇñœ-

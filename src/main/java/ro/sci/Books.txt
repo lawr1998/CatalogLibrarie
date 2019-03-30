@@ -1,0 +1,5 @@
+Numele cartii este Ion si are 300 de pagini
+Numele cartii este Baltagul si are 50 de pagini
+Numele cartii este Iona si are 100 de pagini
+Numele cartii este Babel si are 225 de pagini
+Numele cartii este Groapa si are 190 de pagini
